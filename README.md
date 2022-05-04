@@ -11,7 +11,8 @@
     <h4>communcation effectively in a professional context</h4>
     <img src="555.jfif"alt"the image">
     <h5>define and demonstarte conflict management and resolution strategies</h5>
-      </body>
+    <img src="777.png"alt"the image">
+    </body>
   </head>
       
     
