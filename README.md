@@ -9,6 +9,7 @@
     <h3>work effectively as part of a team</h3>
     <img src="000.jfif"alt"the image">  
     <h4>communcation effectively in a professional context</h4>
+    <img src="555.jfif"alt"the image">
     <h5>define and demonstarte conflict management and resolution strategies</h5>
       </body>
   </head>
